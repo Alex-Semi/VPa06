@@ -1,0 +1,4 @@
+[
+  {"invoice_id": "INV-101", "customer": "ООО Альфа", "date": "2026-09-01", "total": 20000.0, "currency": "RUB"},
+  {"invoice_id": "INV-102", "customer": "Закрытое акционерное общество Бета", "date": "2026-09-15", "total": 45000.75, "currency": "RUB"}
+]
