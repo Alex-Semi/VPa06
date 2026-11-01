@@ -1,0 +1,4 @@
+cd /workspace
+git remote set-url origin https://github.com/Alex-Csl/VPa06.git
+git add -A && git commit -m "Invoice PDF generator project"
+git push -u origin master
