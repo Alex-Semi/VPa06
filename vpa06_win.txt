@@ -1,0 +1,8 @@
+@ Windows (cmd) commands to push the project to Alex-Csl/VPa06
+cd /d D:\vpa06
+git init
+git remote add origin https://github.com/Alex-Csl/VPa06.git
+git add -A
+git commit -m "Invoice PDF generator project"
+git branch -M main
+git push -u origin main
